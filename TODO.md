@@ -1,0 +1,3 @@
+- [x] Install framer-motion dependency in port-folio
+- [x] Fix syntax errors in skills.jsx (rotatex to rotateX, rotatey to rotateY, key={i} to key={index}, fix boxShadow)
+- Run npm run dev to test the website
